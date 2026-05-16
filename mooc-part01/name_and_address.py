@@ -1,0 +1,7 @@
+name = input("First name: ")
+surname = input("Last name: ")
+address = input("Street address: ")
+city_zip = input("City and postal code: ")
+print(name + " " + surname)
+print(address)
+print(city_zip)

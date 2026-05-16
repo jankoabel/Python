@@ -1,0 +1,3 @@
+name = input("What is the hero's name? ")
+year = input("In what year was the hero born? ")
+print(f"{name} is a valiant knight, born in the year {year}. One morning {name} woke up to an awful racket: a dragon was approaching the village. Only {name} could save the village's residents.")
